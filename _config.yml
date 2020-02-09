@@ -1,11 +1,11 @@
 # Site settings
 author: Lester Young
-title: 
+title: A Coder's Journey
 header-img: img/home-bg.png
 email: lyoung070789@gmail.com
 copyright_name: Lester Young
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From the beginning to beyond
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Lyoung0789
