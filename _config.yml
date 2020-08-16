@@ -18,3 +18,8 @@ paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
+
+image:
+  path: /_includes/typewrite.jpg
+  height: 100
+  width: 100
