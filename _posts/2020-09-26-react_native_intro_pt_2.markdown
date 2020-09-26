@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Native Intro Pt. 2"
-date:       2020-09-26 19:29:12 +0000
+date:       2020-09-26 15:29:13 -0400
 permalink:  react_native_intro_pt_2
 ---
 
