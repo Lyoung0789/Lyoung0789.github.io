@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using Fetch in JS"
-date:       2020-10-10 02:06:34 +0000
+date:       2020-10-09 22:06:34 -0400
 permalink:  using_fetch_in_js
 ---
 
