@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Introducing useState React Hooks"
-date:       2020-10-17 17:27:59 +0000
+date:       2020-10-17 13:28:00 -0400
 permalink:  introducing_usestate_react_hooks
 ---
 
 
 Hello again! In this article I will be introducing and clearing up some ambiguity of React Hooks. In React you can define components in two ways, Functional Components and Class Components. If you are familiar with Object Oriented Programming, Class components look very similar and seem like the way to go when creating components. Through my time coding in React, I would usually opt in to creating Class Components and only use Functional Components when I'm creating presentational components or “dumb” components. Class Components came with benefits such as state and the use of Lifecycle methods. But with the introduction of React v16.8.0 React hooks became a thing. In a nutshell React hooks allow functional components to hold state and make use of lifecycle methods, such as componentDidMount, componentWillMount, render, etc.. With React hooks Functional Components weren’t considered “dumb” anymore. In this article I will briefly introduce two hooks that can be used in functional components to utilize state and to utilize lifecycle methods. 
 
-## useState
+## {useState}
 
 The first hook I will introduce is useState. useState allows functional components to hold state just like class components. In a class component you will normally define the state in the constructor method like so: 
 
@@ -85,7 +85,7 @@ function Example() {
 
 This would be depending on what you are coding. You would use best practices to either use an object or two different state variables. 
 
-### Conclusion
+## Conclusion
 
 In this article I only went over the useState hook. As I mentioned in the intro we can also use hooks in place of lifecycle methods. If you wanted to take a deeper dive into lifecycle methods and how to use them as hooks look up [useEffect](https://reactjs.org/docs/hooks-effect.html) and if you wanted to dive deeper on the useState method check out the documentation React provides [here](https://reactjs.org/docs/hooks-state.html).
 
