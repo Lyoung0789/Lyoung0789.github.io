@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Axios in React"
-date:       2020-10-31 18:04:34 +0000
+date:       2020-10-31 14:04:35 -0400
 permalink:  axios_in_react
 ---
 
